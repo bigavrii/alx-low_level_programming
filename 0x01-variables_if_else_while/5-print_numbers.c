@@ -11,11 +11,11 @@ int main(void)
 
 
 {
-	char base;
+	int i;
 
-	for (base = 0; base <= 10; base++)
-		putchar(base);
-	putchar('\n');
+	for (i = 0; i < 10; i++)
+		printf("%d", i);
+	printf("\n");
 
 	return (0);
 }
