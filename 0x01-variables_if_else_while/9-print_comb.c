@@ -8,7 +8,6 @@
  */
 
 int main(void)
-
 {
 
 	int d;
@@ -24,6 +23,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
 }
-	
