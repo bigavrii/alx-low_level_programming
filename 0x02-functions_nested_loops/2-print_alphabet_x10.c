@@ -1,13 +1,17 @@
 #include "main.h"
 
 /**
- * main - print_alphabet_10x
- * Return: 0 (Success)
+ * main - Entry point
+ *
+ * Description: print_alphabet_x10
+ *
+ * Return: Always 0 (success)
  */
 
 void print_alphabet_x10(void)
+
 {
-	char c;
+	int c;
 	int i = 0;
 
 	while (i <= 9)
