@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
- * two integers a, b
- * Return: Always 0.
+ * mul - gives the product of a and b
+ * @a: variable
+ * @b: variable
+ *
+ * Return: a * b
  */
 
 int mul(int a, int b)
