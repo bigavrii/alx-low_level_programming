@@ -3,12 +3,11 @@
 #include <string.h>
 
 /**
- * main - Entry point
- *
- * @program to return string
- *
- * Return: 0 Always
- */
+ * _strlen - checks the length of a string
+ * @s:input
+ * Return: Always 0 (Success)
+ * Author: Bigavrii
+*/
 
 int _strlen(char *s)
 
