@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- * @str: Pointer to the output
- * Return: Always 0.
+ * _puts - prints the string folowed by a new line
+ * @str: Pointer to the input
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
  */
 
 void _puts(char *str)
