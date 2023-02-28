@@ -7,7 +7,6 @@
  * @a: pointer to the first integer
  * @b: pointer to the second integer
  * Return: Always 0 (Success)
- * Author: IanoNjuguna
  */
 
 void swap_int(int *a, int *b)
