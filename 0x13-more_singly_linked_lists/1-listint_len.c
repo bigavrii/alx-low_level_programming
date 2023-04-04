@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * listint_t - returns the number of nodes in listint_t list
+ * listint_len - returns the number of nodes in listint_t list
  *
  * @h: head of a list in node
  *
